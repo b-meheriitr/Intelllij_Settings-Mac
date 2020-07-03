@@ -13,6 +13,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl f9" />
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
+  <action id="DBNavigator.Actions.Execute">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
   <action id="EditorChooseLookupItemCompleteStatement">
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
