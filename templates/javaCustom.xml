@@ -45,4 +45,12 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
+  <template name="countMap" value="if ($VAR1$.containsKey($VAR2$)) {&#10;    $VAR1$.put($VAR2$, $VAR1$.get($VAR2$) + 1);&#10;} else&#10;    $VAR1$.put($VAR2$, 1);$END$&#10;        " description="creates code for disctionary using Map" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CONSUMER" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
