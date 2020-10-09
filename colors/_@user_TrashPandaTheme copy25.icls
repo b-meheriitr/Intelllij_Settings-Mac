@@ -5,7 +5,7 @@
     <property name="description" />
     <property name="ide">IdeaEdu</property>
     <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2020-06-04T03:18:46</property>
+    <property name="modified">2020-10-08T20:43:13</property>
     <property name="originalScheme">TrashPandaTheme</property>
     <property name="vendorMail" />
     <property name="vendorName">testPanda</property>
@@ -13,9 +13,10 @@
     <property name="version">0.1</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
   <option name="CONSOLE_FONT_NAME" value="Fira Code Retina" />
+  <option name="CONSOLE_FONT_SIZE" value="13" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="b665d" />
     <option name="CARET_COLOR" value="4a9bf2" />
@@ -202,8 +203,6 @@
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
-    <option name="CSS.KEYWORD" baseAttributes="" />
-    <option name="CSS.TAG_NAME" baseAttributes="" />
     <option name="CSS.URL">
       <value>
         <option name="FOREGROUND" value="7be1e3" />
@@ -514,8 +513,6 @@
         <option name="BACKGROUND" value="222629" />
       </value>
     </option>
-    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="JS.DECORATOR">
       <value>
         <option name="FOREGROUND" value="14b5a5" />
