@@ -1,8 +1,0 @@
-<application>
-  <component name="ActionMacroManager">
-    <macro name="complete current line + \n">
-      <action id="EditorCompleteStatement" />
-      <action id="EditorEnter" />
-    </macro>
-  </component>
-</application>
