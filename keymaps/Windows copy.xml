@@ -55,4 +55,7 @@
     <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
 </keymap>
