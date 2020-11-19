@@ -40,6 +40,9 @@
   <action id="Macro.complete current line + \n">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
+  <action id="Macro.newLine completion">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
   <action id="NewFile">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
@@ -54,6 +57,10 @@
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="ctrl f2" />
+    <keyboard-shortcut first-keystroke="alt 5" />
   </action>
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="alt g" />
