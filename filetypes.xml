@@ -13,8 +13,6 @@
       <mapping ext="icls" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
-      <mapping ext="db" type="PLAIN_TEXT" />
-      <mapping ext="qrc" type="XML" />
     </extensionMap>
   </component>
 </application>
