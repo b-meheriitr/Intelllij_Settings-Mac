@@ -6,6 +6,7 @@
       <mapping pattern="api_lists.txt" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
+      <mapping pattern="common" type="PLAIN_TEXT" />
       <mapping pattern="ss2" type="PLAIN_TEXT" />
       <mapping pattern="ss" type="PLAIN_TEXT" />
       <mapping pattern="Bookmarks" type="PLAIN_TEXT" />
