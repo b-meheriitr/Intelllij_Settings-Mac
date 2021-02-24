@@ -13,6 +13,7 @@
       <mapping pattern="out" type="PLAIN_TEXT" />
       <mapping pattern="api_lists" type="PLAIN_TEXT" />
       <mapping pattern="rough" type="PLAIN_TEXT" />
+      <mapping pattern="login" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="icls" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
