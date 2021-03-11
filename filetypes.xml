@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="act9" type="AUTO_DETECTED" />
       <mapping pattern="act3a" type="AUTO_DETECTED" />
+      <mapping pattern="apis" type="AUTO_DETECTED" />
       <mapping pattern="act8" type="AUTO_DETECTED" />
       <mapping pattern="act4" type="AUTO_DETECTED" />
       <mapping pattern="act7" type="AUTO_DETECTED" />
