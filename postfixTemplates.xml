@@ -1,38 +1,44 @@
 <application>
   <component name="PostfixTemplates">
+    <template id="lambda" key=".lambda" provider="builtin.java" builtin="lambda" language-level="8" topmost="true">
+      <conditions />
+      <template name="fakeKey" value="() -&gt; $EXPR$" description="" toReformat="true" toShortenFQNames="true" />
+    </template>
     <template id="do@userDefined" key=".do" provider="builtin.java" language-level="1.3" topmost="true">
       <conditions>
         <condition id="boolean" />
       </conditions>
       <template name="fakeKey" value="do{&#10;    $END$&#10;}while($EXPR$);" description="" toReformat="true" toShortenFQNames="true" />
     </template>
-    <template id="min@userDefined" key=".min" provider="builtin.java" language-level="1.3" topmost="false">
+    <template id="ns@userDefined" key=".ns" provider="builtin.java" language-level="1.3" topmost="true">
       <conditions>
-        <condition id="number" />
+        <condition id="notPrimitive" />
       </conditions>
-      <template name="fakeKey" value="$EXPR$ = Math.min($EXPR$, $END$);&#10;" toReformat="true" toShortenFQNames="true" />
-    </template>
-    <template id="Math_max@userDefined" key=".max" provider="builtin.java" language-level="1.3" topmost="false">
-      <conditions>
-        <condition id="number" />
-      </conditions>
-      <template name="fakeKey" value="$EXPR$ = Math.max($EXPR$, $END$);&#10;" toReformat="true" toShortenFQNames="true" />
-    </template>
-    <template id="lambda" key=".lambda" provider="builtin.java" builtin="lambda" language-level="8" topmost="true">
-      <conditions />
-      <template name="fakeKey" value="() -&gt; $EXPR$" description="" toReformat="true" toShortenFQNames="true" />
+      <template name="fakeKey" value="new String($EXPR$);$END$" toReformat="true" toShortenFQNames="true" />
     </template>
     <template id="scanArr@userDefined" key=".scanArr" provider="builtin.java" language-level="1.3" topmost="false">
       <conditions>
         <condition id="array" />
       </conditions>
-      <template name="fakeKey" value="for(int i=0;i&lt;$EXPR$.length;i++){&#10;    $EXPR$[i]=sc.nextInt();        &#10;}&#10;$END$" toReformat="true" toShortenFQNames="true" />
+      <template name="fakeKey" value="for(int i=0;i&lt;$EXPR$.length;i++){&#10;    $EXPR$[i]=sc.nextInt();        &#10;}&#10;$END$" description="" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="Math_max@userDefined" key=".max" provider="builtin.java" language-level="1.3" topmost="false">
+      <conditions>
+        <condition id="number" />
+      </conditions>
+      <template name="fakeKey" value="$EXPR$ = Math.max($EXPR$, $END$);&#10;" description="" toReformat="true" toShortenFQNames="true" />
     </template>
     <template id="ef@userDefined" key=".elf" provider="builtin.java" language-level="1.3" topmost="true">
       <conditions>
         <condition id="boolean" />
       </conditions>
       <template name="fakeKey" value="else if($EXPR$){&#10;    $END$&#10;}" description="" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="min@userDefined" key=".min" provider="builtin.java" language-level="1.3" topmost="false">
+      <conditions>
+        <condition id="number" />
+      </conditions>
+      <template name="fakeKey" value="$EXPR$ = Math.min($EXPR$, $END$);&#10;" description="" toReformat="true" toShortenFQNames="true" />
     </template>
   </component>
 </application>
