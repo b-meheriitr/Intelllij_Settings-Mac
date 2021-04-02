@@ -8,6 +8,7 @@
       <mapping pattern="act8" type="AUTO_DETECTED" />
       <mapping pattern="act4" type="AUTO_DETECTED" />
       <mapping pattern="act7" type="AUTO_DETECTED" />
+      <mapping pattern="association-save-data" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="act5" type="PLAIN_TEXT" />
