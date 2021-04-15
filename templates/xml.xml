@@ -1,0 +1,8 @@
+<templateSet group="xml">
+  <template name="c11" value="______________________$VAR1$______________________$END$" description="comment undersocred" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+</templateSet>
