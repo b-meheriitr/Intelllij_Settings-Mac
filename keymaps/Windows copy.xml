@@ -34,6 +34,10 @@
     <keyboard-shortcut first-keystroke="home" />
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
+  <action id="ExtractMethod">
+    <keyboard-shortcut first-keystroke="ctrl alt m" />
+    <keyboard-shortcut first-keystroke="alt comma" />
+  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="alt 6" />
