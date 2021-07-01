@@ -14,6 +14,9 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="alt 4" />
   </action>
+  <action id="CompareTwoFiles">
+    <keyboard-shortcut first-keystroke="alt f2" />
+  </action>
   <action id="Compile">
     <keyboard-shortcut first-keystroke="shift ctrl f9" />
     <keyboard-shortcut first-keystroke="alt c" />
@@ -33,6 +36,10 @@
   <action id="EditorLineStart">
     <keyboard-shortcut first-keystroke="home" />
     <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="ExtractMethod">
+    <keyboard-shortcut first-keystroke="ctrl alt m" />
+    <keyboard-shortcut first-keystroke="alt comma" />
   </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="alt insert" />
