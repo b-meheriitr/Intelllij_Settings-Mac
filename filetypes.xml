@@ -1,17 +1,7 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.iml;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.classpath;.git;.hg;.idea;.mvn;.project;.settings;.svn;CVS;__pycache__;_svn;src/*.class;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="act9" type="AUTO_DETECTED" />
-      <mapping pattern="act3a" type="AUTO_DETECTED" />
-      <mapping pattern="apis" type="AUTO_DETECTED" />
-      <mapping pattern="act8" type="AUTO_DETECTED" />
-      <mapping pattern="act4" type="AUTO_DETECTED" />
-      <mapping pattern="ioDataStructures" type="AUTO_DETECTED" />
-      <mapping pattern="act7" type="AUTO_DETECTED" />
-      <mapping pattern="association-save-data" type="AUTO_DETECTED" />
-      <mapping pattern="act1-opassoc-submit" type="AUTO_DETECTED" />
-      <mapping pattern="act_3a-IN" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -34,8 +24,18 @@
       <mapping ext="ser" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <mapping pattern="act1-opassoc-submit" type="AUTO_DETECTED" />
+      <mapping pattern="act3a" type="AUTO_DETECTED" />
+      <mapping pattern="act4" type="AUTO_DETECTED" />
+      <mapping pattern="act7" type="AUTO_DETECTED" />
+      <mapping pattern="act8" type="AUTO_DETECTED" />
+      <mapping pattern="act9" type="AUTO_DETECTED" />
+      <mapping pattern="act_3a-IN" type="AUTO_DETECTED" />
+      <mapping pattern="apis" type="AUTO_DETECTED" />
+      <mapping pattern="association-save-data" type="AUTO_DETECTED" />
+      <mapping pattern="ioDataStructures" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
 </application>
