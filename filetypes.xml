@@ -24,6 +24,7 @@
       <mapping pattern="ss2" type="PLAIN_TEXT" />
       <mapping pattern="common" type="PLAIN_TEXT" />
       <mapping pattern=".idea" type="PLAIN_TEXT" />
+      <mapping pattern=".empty" type="PLAIN_TEXT" />
       <mapping pattern="ss" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern="act3b" type="PLAIN_TEXT" />
