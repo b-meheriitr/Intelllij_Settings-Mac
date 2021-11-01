@@ -1,5 +1,5 @@
 <templateSet group="HTML/XML">
-  <template name="button" value="&lt;button&gt;&lt;button&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="button" value="&lt;button&gt;&lt;button&gt;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
     </context>
