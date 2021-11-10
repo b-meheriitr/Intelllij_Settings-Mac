@@ -1,0 +1,19 @@
+<templateSet group="spring">
+  <template name="gm" value="@$m$Mapping(&quot;/$path$&quot;)&#10;public $VAR1$ $M$(){&#10;    $END$&#10;}" description="GetMapping method" toReformat="false" toShortenFQNames="true">
+    <variable name="m" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="path" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="M" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CONSUMER" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="aw" value="@Autowired&#10;private $VAR1$ $VAR2$;&#10;&#10;$END$" description="@Autowire \n private ..." toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>

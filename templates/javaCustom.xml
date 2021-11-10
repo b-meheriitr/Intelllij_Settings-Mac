@@ -1,0 +1,65 @@
+<templateSet group="javaCustom">
+  <template name="a1ry" value="$TYPE$[] $VAR$ = new $TYPE$[$SIZE$];$END$" description="creates 1D array" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="&quot;int&quot;" defaultValue="int" alwaysStopAt="true" />
+    <variable name="VAR" expression="suggestVariableName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="SIZE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="a2ry" value="$TYPE$[][] $VAR$ = new $TYPE$[$SIZE1$][$SIZE2$];$END$" description="creates 2D array" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="&quot;int&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="suggestVariableName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="SIZE1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="SIZE2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="d1" value="$TYPE$ $VAR$ = new $TYPE$($END$);&#10;" description="Non-Generic : Declares and assigns a new object" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="&quot;DataType&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="suggestVariableName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="d2" value="$TYPE$&lt;$T$&gt; $VAR$ = new $TYPE$&lt;&gt;($END$);&#10;" description="Generic : declares and assigns a new  object" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="&quot;DataType&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="T" expression="&quot;Integer&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="suggestVariableName" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="a3" value="$VAR$ = new $TYPE$($END$);&#10;" description="x = new DataType();" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="typeOfVariable(VAR)" defaultValue="hhhhhh" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="app" value="class $Class${&#10;    public static void main(String[] args){&#10;        $END$&#10;    }&#10;}" description="Creates a test class" toReformat="false" toShortenFQNames="true">
+    <variable name="Class" expression="&quot;demo&quot;" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="countMap" value="if ($VAR1$.containsKey($VAR2$)) {&#10;    $VAR1$.put($VAR2$, $VAR1$.get($VAR2$) + 1);&#10;} else&#10;    $VAR1$.put($VAR2$, 1);$END$&#10;        " description="creates code for disctionary using Map" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CONSUMER" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="lambda" value="($VAR1$) -&gt; $END$" description="creates a lambda () -&gt; ;" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="COMPLETION" value="true" />
+      <option name="JAVA_CONSUMER" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
