@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="openApi" value="openapi: 3.0.1&#10;info:&#10;  title: &quot;&quot;&#10;  version: &quot;&quot;&#10;paths:&#10;  &#10;$END$" toReformat="false" toShortenFQNames="true">
+  <template name="openApi" value="openapi: 3.0.1&#10;info:&#10;  title: &quot;&quot;&#10;  version: &quot;&quot;&#10;paths:&#10;  &#10;&#10;$END$" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS" value="false" />
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
