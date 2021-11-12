@@ -1,0 +1,9 @@
+<templateSet group="JavaScript">
+  <template name="timeWrap" value="const t1 = new Date()&#10;&#10;$VAR1$&#10;&#10;console.log(&quot;$VAR2$&quot;, new Date() - t1)&#10;$END$" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
