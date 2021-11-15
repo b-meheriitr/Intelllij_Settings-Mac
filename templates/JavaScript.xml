@@ -1,5 +1,5 @@
 <templateSet group="JavaScript">
-  <template name="timeWrap" value="&#10;// TimeWrap //////////////////////////////////////////&#10;const t1 = new Date()&#10;//----------------------------------------------------&#10;$VAR1$&#10;//----------------------------------------------------&#10;console.log(&quot;$VAR2$&quot;, new Date() - t1)&#10;// TimeWrap //////////////////////////////////////////&#10;&#10;$END$" toReformat="false" toShortenFQNames="true">
+  <template name="timeWrap" value="&#10;// TimeWrap //////////////////////////////////////////&#10;const t1 = new Date()&#10;//----------------------------------------------------&#10;$VAR1$&#10;//----------------------------------------------------&#10;console.log(&quot;$VAR2$&quot;, new Date() - t1)&#10;// TimeWrap //////////////////////////////////////////&#10;&#10;$END$" description="" toReformat="false" toShortenFQNames="true">
     <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
