@@ -1,0 +1,7 @@
+<templateSet group="expressNode">
+  <template name="arrn" value="async (req, res, next) =&gt; {&#10;    $END$&#10;}" description="async (req, res, next) =&gt; {}" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
