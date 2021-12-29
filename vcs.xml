@@ -6,6 +6,10 @@
           <option name="url" value="git@gitlab.crio.do:COHORT_ME_QEATS_V2_ENROLL_1597832408956/bhuvanat122iitr-ME_QEATS_V2.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://tfs.ril.com:8080" />
+          <option name="userName" value="bhubaneshwar.meher@ril.com" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\winFiles\Documents\programming\javaSrc\projects\crio\idea" />
@@ -19,7 +23,6 @@
         <option value="Default.Subject" />
         <option value="Default.Author" />
         <option value="Default.Date" />
-        <option value="Space.CommitStatus" />
       </list>
     </option>
   </component>
