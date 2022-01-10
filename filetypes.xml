@@ -1,32 +1,35 @@
 <application>
   <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*.iml;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.classpath;.git;.hg;.idea;.mvn;.project;.settings;.svn;CVS;__pycache__;_svn;src/*.class;vssver.scc;vssver2.scc;" />
+    <ignoreFiles list="*.iml;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.classpath;.git;.hg;.idea;.mvn;.project;.settings;.svn;CVS;__pycache__;_svn;src/*.class;vssver.scc;vssver2.scc" />
     <extensionMap>
-      <mapping pattern="act3a" type="AUTO_DETECTED" />
-      <mapping pattern="act4" type="AUTO_DETECTED" />
-      <mapping pattern="ioDataStructures" type="AUTO_DETECTED" />
-      <mapping pattern="act_3a-IN" type="AUTO_DETECTED" />
-      <mapping pattern="act9" type="AUTO_DETECTED" />
-      <mapping pattern="apis" type="AUTO_DETECTED" />
-      <mapping pattern="act8" type="AUTO_DETECTED" />
       <mapping pattern="act7" type="AUTO_DETECTED" />
+      <mapping pattern="act9" type="AUTO_DETECTED" />
+      <mapping pattern="act8" type="AUTO_DETECTED" />
+      <mapping pattern="act4" type="AUTO_DETECTED" />
       <mapping pattern="association-save-data" type="AUTO_DETECTED" />
       <mapping pattern="act1-opassoc-submit" type="AUTO_DETECTED" />
-      <mapping pattern="act5" type="PLAIN_TEXT" />
-      <mapping pattern=".idea" type="PLAIN_TEXT" />
+      <mapping pattern="act3a" type="AUTO_DETECTED" />
+      <mapping pattern="apis" type="AUTO_DETECTED" />
+      <mapping pattern="ioDataStructures" type="AUTO_DETECTED" />
+      <mapping pattern="act_3a-IN" type="AUTO_DETECTED" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="api_lists.txt" type="PLAIN_TEXT" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="Bookmarks" type="PLAIN_TEXT" />
+      <mapping pattern="rough" type="PLAIN_TEXT" />
       <mapping pattern="act6" type="PLAIN_TEXT" />
+      <mapping pattern="act5" type="PLAIN_TEXT" />
+      <mapping pattern="out" type="PLAIN_TEXT" />
+      <mapping pattern="ss2" type="PLAIN_TEXT" />
+      <mapping pattern="common" type="PLAIN_TEXT" />
+      <mapping pattern=".idea" type="PLAIN_TEXT" />
+      <mapping pattern=".empty" type="PLAIN_TEXT" />
+      <mapping pattern="ss" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern="act3b" type="PLAIN_TEXT" />
-      <mapping pattern="ss2" type="PLAIN_TEXT" />
       <mapping pattern="api_lists" type="PLAIN_TEXT" />
-      <mapping pattern="rough" type="PLAIN_TEXT" />
-      <mapping pattern=".empty" type="PLAIN_TEXT" />
-      <mapping pattern="common" type="PLAIN_TEXT" />
-      <mapping pattern="ss" type="PLAIN_TEXT" />
-      <mapping pattern="Bookmarks" type="PLAIN_TEXT" />
-      <mapping pattern="out" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="icls" type="PLAIN_TEXT" />
       <mapping ext="original" type="PLAIN_TEXT" />
@@ -37,9 +40,6 @@
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="factories" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="psd" approved="true" type="Image" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="space.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
