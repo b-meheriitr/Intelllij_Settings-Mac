@@ -12,6 +12,7 @@
       <mapping pattern="act7" type="AUTO_DETECTED" />
       <mapping pattern="association-save-data" type="AUTO_DETECTED" />
       <mapping pattern="act1-opassoc-submit" type="AUTO_DETECTED" />
+      <mapping pattern="digitalApiServiceProvidor.js" type="JavaScript" />
       <mapping pattern="act5" type="PLAIN_TEXT" />
       <mapping pattern=".idea" type="PLAIN_TEXT" />
       <mapping pattern="api_lists.txt" type="PLAIN_TEXT" />
