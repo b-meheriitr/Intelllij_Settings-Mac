@@ -16,8 +16,8 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="Bookmarks" type="PLAIN_TEXT" />
       <mapping pattern="api_lists.txt" type="PLAIN_TEXT" />
+      <mapping pattern="Bookmarks" type="PLAIN_TEXT" />
       <mapping pattern="rough" type="PLAIN_TEXT" />
       <mapping pattern="act6" type="PLAIN_TEXT" />
       <mapping pattern="act5" type="PLAIN_TEXT" />
