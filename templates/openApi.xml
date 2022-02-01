@@ -1,0 +1,9 @@
+<templateSet group="openApi">
+  <template name="openApi.json" value="{&#10;  &quot;openapi&quot;: &quot;3.0.3&quot;,&#10;  &quot;info&quot;: {&#10;    &quot;title&quot;: &quot;&quot;,&#10;    &quot;version&quot;: &quot;&quot;&#10;  },&#10;  &quot;paths&quot;: {&#10;   $END$ &#10;  }&#10;}" description="openApi specification in JSON" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSON" value="true" />
+      <option name="JSON_PROPERTY_KEYS" value="false" />
+      <option name="JSON_STRING_VALUES" value="false" />
+    </context>
+  </template>
+</templateSet>

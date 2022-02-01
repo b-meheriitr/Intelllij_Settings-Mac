@@ -2,5 +2,6 @@
   <component name="UISettings">
     <option name="MAX_LOOKUP_WIDTH2" value="684" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="smoothScrolling" value="false" />
   </component>
 </application>
