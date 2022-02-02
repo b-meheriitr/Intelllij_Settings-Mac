@@ -1,4 +1,5 @@
 <code_scheme name="Default" version="173">
+  <option name="AUTODETECT_INDENTS" value="false" />
   <JSCodeStyleSettings version="0">
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
@@ -24,14 +25,29 @@
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="TAB_SIZE" value="2" />
       <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="true" />
+    <arrangement>
+      <groups>
+        <group>
+          <type>GROUP_PROPERTY_FIELD_WITH_GETTER_SETTER</type>
+          <order>KEEP</order>
+        </group>
+        <group>
+          <type>TREAT_LAMBDA_INITIALIZED_FIELDS_AS_METHODS</type>
+          <order>KEEP</order>
+        </group>
+        <group>
+          <type>OVERRIDDEN_METHODS</type>
+          <order>KEEP</order>
+        </group>
+      </groups>
+    </arrangement>
   </codeStyleSettings>
   <codeStyleSettings language="yaml">
     <indentOptions>
