@@ -27,6 +27,9 @@
     </option>
     <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
   </component>
+  <component name="JSCodeFoldingSettings">
+    <option name="collapseOneLineFunctions" value="true" />
+  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
