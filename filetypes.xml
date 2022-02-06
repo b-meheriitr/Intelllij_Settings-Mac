@@ -12,6 +12,7 @@
       <mapping pattern="act4" type="AUTO_DETECTED" />
       <mapping pattern="act1-opassoc-submit" type="AUTO_DETECTED" />
       <mapping pattern="ioDataStructures" type="AUTO_DETECTED" />
+      <mapping pattern="digitalApiServiceProvidor.js" type="JavaScript" />
       <mapping pattern="Bookmarks" type="PLAIN_TEXT" />
       <mapping pattern=".idea" type="PLAIN_TEXT" />
       <mapping pattern=".empty" type="PLAIN_TEXT" />
@@ -27,19 +28,27 @@
       <mapping pattern="common" type="PLAIN_TEXT" />
       <mapping pattern="ss" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="icls" type="PLAIN_TEXT" />
       <mapping ext="original" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
+      <mapping ext="plantuml" type="PlantUML file" />
       <mapping ext="factories" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="factories" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping pattern=".env" approved="true" type=".env file" />
+      <mapping ext=".model" type="Tabnine project model file" />
+      <mapping ext=".tabnine" type="Tabnine project model file" />
+      <mapping ext=".tabnine.model" type="Tabnine project model file" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="model" type="Tabnine project model file" />
       <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="tabnine" type="Tabnine project model file" />
     </extensionMap>
   </component>
 </application>

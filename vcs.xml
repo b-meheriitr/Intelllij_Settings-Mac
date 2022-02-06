@@ -22,9 +22,13 @@
           <option name="url" value="https://github.com/nassor/mongoose-history.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://tfs.ril.com:8080/tfs/jio-bpm/K2/_git/VLMPPartnerWorld-ReactApp" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\winFiles\Documents\programming\jnode" />
+    <option name="cloneParentDir" value="C:\Users\Bhubaneshwar.Meher\Downloads" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
@@ -40,5 +44,8 @@
   </component>
   <component name="VcsApplicationSettings">
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
+  </component>
+  <component name="VcsEditorTab.Settings">
+    <option name="openInNewWindow" value="true" />
   </component>
 </application>
