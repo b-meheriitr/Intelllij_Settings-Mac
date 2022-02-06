@@ -40,6 +40,9 @@
     <keyboard-shortcut first-keystroke="home" />
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
+  <action id="EditorScrollLeft">
+    <mouse-shortcut keystroke="shift button142" />
+  </action>
   <action id="ExtractMethod">
     <keyboard-shortcut first-keystroke="ctrl alt m" />
     <keyboard-shortcut first-keystroke="alt comma" />
