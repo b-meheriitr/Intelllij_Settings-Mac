@@ -60,6 +60,7 @@
   <action id="NewFile">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
+  <action id="QuickActionPopup" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift f10" />
     <keyboard-shortcut first-keystroke="alt r" />
