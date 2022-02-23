@@ -80,4 +80,7 @@
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
 </keymap>
