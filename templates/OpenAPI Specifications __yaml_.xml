@@ -4,7 +4,7 @@
       <option name="GENERAL_YAML_FILE" value="true" />
     </context>
   </template>
-  <template name="servers" value="servers:&#10;  - url: &quot;http://{ip}:{port}/{baseUrl}&quot;&#10;    variables:&#10;      ip:&#10;        default: &quot;localhost&quot;&#10;      port:&#10;        default: &quot;8080&quot;&#10;      baseUrl:&#10;        default: &quot;api&quot;&#10;" description="Populated servers" toReformat="false" toShortenFQNames="true">
+  <template name="servers" value="servers:&#10;  - url: &quot;http://{ip}:{port}/{baseUrl}&quot;&#10;    variables:&#10;      ip:&#10;        default: &quot;localhost&quot;&#10;      port:&#10;        default: &quot;8080&quot;&#10;      baseUrl:&#10;        default: &quot;api&quot;&#10;  - url: &quot;http://{ip}:{port}&quot;&#10;    variables:&#10;      ip:&#10;        default: &quot;localhost&quot;&#10;      port:&#10;        default: &quot;8080&quot;&#10;" description="Populated servers" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="ANY_OPENAPI_YAML_FILE" value="true" />
     </context>
