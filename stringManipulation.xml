@@ -57,10 +57,18 @@
                 <option name="enabled" value="false" />
                 <option name="style" value="PASCAL_CASE" />
               </Step>
+              <Step>
+                <option name="style" value="CAPITALIZED_SNAKE_CASE" />
+              </Step>
             </list>
           </option>
         </CustomActionModel>
       </list>
+    </option>
+    <option name="lastAction">
+      <UniversalActionModel>
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.switching.ToScreamingSnakeCaseOrCamelCaseAction" />
+      </UniversalActionModel>
     </option>
   </component>
 </application>
