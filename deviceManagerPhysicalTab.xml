@@ -1,0 +1,18 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-bfc4b85b-5gB0Jr._adb-tls-connect._tcp" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-02-25T15:50:48.994049400Z" />
+        <name value="realme RMX2170" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
