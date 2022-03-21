@@ -1,5 +1,5 @@
 <templateSet group="temp">
-  <template name="seqField" value="$VAR2$: {&#10;&#9;&#9;&#9;field: '$VAR1$',&#10;&#9;&#9;&#9;type: DataTypes.$VAR3$&#10;&#9;&#9;}," toReformat="false" toShortenFQNames="true">
+  <template name="seqField" value="$VAR2$: {&#10;&#9;&#9;&#9;field: '$VAR1$',&#10;&#9;&#9;&#9;type: DataTypes.$VAR3$&#10;&#9;&#9;}," description="" toReformat="false" toShortenFQNames="true">
     <variable name="VAR2" expression="camelCase($VAR1$)" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VAR3" expression="" defaultValue="" alwaysStopAt="true" />
