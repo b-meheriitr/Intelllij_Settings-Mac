@@ -5,7 +5,7 @@
     <property name="description" />
     <property name="ide">IdeaEdu</property>
     <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2022-01-19T22:13:09</property>
+    <property name="modified">2022-03-25T01:48:12</property>
     <property name="originalScheme">TrashPandaTheme</property>
     <property name="vendorMail" />
     <property name="vendorName">testPanda</property>
@@ -451,8 +451,8 @@
     </option>
     <option name="GENERIC_SERVER_ERROR_OR_WARNING">
       <value>
-        <option name="EFFECT_COLOR" value="e68680" />
-        <option name="ERROR_STRIPE_COLOR" value="e68680" />
+        <option name="EFFECT_COLOR" value="cb1710" />
+        <option name="ERROR_STRIPE_COLOR" value="cb1710" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -520,7 +520,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
     <option name="LESS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="LIVE_TEMPLATE_ATTRIBUTES">
       <value>
@@ -597,7 +597,7 @@
     <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="RUNTIME_ERROR">
       <value>
-        <option name="EFFECT_COLOR" value="e68680" />
+        <option name="EFFECT_COLOR" value="cb1710" />
         <option name="ERROR_STRIPE_COLOR" value="e68680" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
