@@ -30,6 +30,10 @@
           <option name="url" value="https://tfs.ril.com:8080/tfs/jio-bpm/K2/_git/JFS-OPS-APP" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://tfs.ril.com:8080/tfs/JIO-BPM/K2/_git/srm-barcode-generator" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Bhubaneshwar.Meher\Documents\projects\JFS\code" />
@@ -43,7 +47,6 @@
         <option value="Default.Author" />
         <option value="Default.Date" />
         <option value="Default.Subject" />
-        <option value="Space.CommitStatus" />
       </list>
     </option>
   </component>
