@@ -5,7 +5,7 @@
     <property name="description" />
     <property name="ide">IdeaEdu</property>
     <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2022-04-11T16:17:45</property>
+    <property name="modified">2022-04-12T15:51:46</property>
     <property name="originalScheme">TrashPandaTheme</property>
     <property name="vendorMail" />
     <property name="vendorName">testPanda</property>
@@ -495,7 +495,7 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="FOREGROUND" value="c6ccd3" />
-        <option name="BACKGROUND" value="383c40" />
+        <option name="BACKGROUND" value="41d7f5" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT">
@@ -622,7 +622,7 @@
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="222629" />
-        <option name="BACKGROUND" value="b1b7be" />
+        <option name="BACKGROUND" value="383c40" />
         <option name="EFFECT_COLOR" value="14b5a5" />
         <option name="ERROR_STRIPE_COLOR" value="14b5a5" />
       </value>
@@ -699,7 +699,7 @@
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="6a7175" />
+        <option name="BACKGROUND" value="383c40" />
         <option name="EFFECT_COLOR" value="14b5a5" />
       </value>
     </option>
