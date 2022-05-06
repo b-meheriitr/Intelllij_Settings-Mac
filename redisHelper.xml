@@ -1,0 +1,16 @@
+<application>
+  <component name="RedisHelper">
+    <option name="connections">
+      <list>
+        <ConnectionInfo>
+          <option name="global" value="true" />
+          <option name="id" value="29f48184-8c43-4595-b355-a79763acbc52" />
+          <option name="name" value="resq-dev-redis" />
+          <option name="password" value="lol@123" />
+          <option name="port" value="6389" />
+          <option name="url" value="10.21.54.93" />
+        </ConnectionInfo>
+      </list>
+    </option>
+  </component>
+</application>
