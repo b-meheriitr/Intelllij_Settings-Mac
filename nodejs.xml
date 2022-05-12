@@ -1,7 +1,13 @@
 <application>
   <component name="NodeJsLocalInterpreterManager">
     <local-interpreter path="$USER_HOME$/AppData/Roaming/nodejs/node.exe">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/AppData/Roaming/nvm/v16.14.2/node.exe">
       <version-cache version="16.14.2" last-modified="1647535106000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/AppData/Roaming/nvm/v14.19.1/node64.exe">
+      <version-cache version="14.19.1" last-modified="1651139332128" />
     </local-interpreter>
   </component>
   <component name="WslNodeInterpreterManager">
