@@ -10,6 +10,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="b-meheriitr" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://devops.jio.com" />
+          <option name="userName" value="bhubaneshwar.meher" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
