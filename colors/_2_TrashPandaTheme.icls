@@ -5,7 +5,7 @@
     <property name="description" />
     <property name="ide">IdeaEdu</property>
     <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2022-05-18T00:19:24</property>
+    <property name="modified">2022-05-17T23:49:29</property>
     <property name="originalScheme">TrashPandaTheme</property>
     <property name="vendorMail" />
     <property name="vendorName">testPanda</property>
@@ -57,7 +57,7 @@
     <option name="SEPARATOR_BELOW_COLOR" value="383c40" />
     <option name="ScrollBar.Mac.hoverThumbColor" value="383c40" />
     <option name="ScrollBar.Mac.thumbColor" value="383c40" />
-    <option name="TAB_UNDERLINE" value="4a88c7" />
+    <option name="TAB_UNDERLINE" value="" />
     <option name="TEARLINE_COLOR" value="383c40" />
     <option name="VISUAL_INDENT_GUIDE" value="383c40" />
     <option name="WHITESPACES" value="383c40" />
