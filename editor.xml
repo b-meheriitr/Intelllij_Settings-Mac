@@ -28,6 +28,13 @@
       </set>
     </option>
     <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+    <settingsMapElement>
+      <JavaScript.js.type.hints>
+        <Settings>
+          <option name="showForInferredParameters" value="false" />
+        </Settings>
+      </JavaScript.js.type.hints>
+    </settingsMapElement>
   </component>
   <component name="JSCodeFoldingSettings">
     <option name="collapseOneLineFunctions" value="true" />
