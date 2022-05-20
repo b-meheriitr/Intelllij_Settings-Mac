@@ -9,8 +9,8 @@
               <option value="com.intellij.openapi.vcs.changes.patch.tool.PatchDiffTool" />
               <option value="com.intellij.diff.tools.combined.CombinedUnifiedDiffTool" />
               <option value="com.intellij.diff.tools.combined.CombinedSideBySideDiffTool" />
-              <option value="com.intellij.diff.tools.fragmented.UnifiedDiffTool" />
               <option value="com.intellij.diff.tools.simple.SimpleDiffTool" />
+              <option value="com.intellij.diff.tools.fragmented.UnifiedDiffTool" />
               <option value="com.intellij.diff.tools.binary.BinaryDiffTool" />
               <option value="com.intellij.diff.tools.dir.DirDiffTool" />
               <option value="com.jetbrains.rider.vcs.diff.AssemblyDiffTool" />
@@ -51,6 +51,11 @@
       <entry key="Merge">
         <PlaceSettings>
           <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
+        </PlaceSettings>
+      </entry>
+      <entry key="ShelveView">
+        <PlaceSettings>
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
         </PlaceSettings>
       </entry>
     </option>
