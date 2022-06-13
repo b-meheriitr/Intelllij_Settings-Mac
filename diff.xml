@@ -61,9 +61,7 @@
         </PlaceSettings>
       </entry>
       <entry key="VcsFileHistoryView">
-        <PlaceSettings>
-          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
-        </PlaceSettings>
+        <PlaceSettings />
       </entry>
     </option>
   </component>
