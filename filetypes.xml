@@ -1,16 +1,14 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="xlsx" type="MyNativeFile" />
-      <mapping ext="xls" type="MyNativeFile" />
-      <removed_mapping ext="xlsx" type="Native" />
-      <removed_mapping ext="xls" type="Native" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="service" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="xls" approved="true" type="Native" />
+      <removed_mapping ext="xlsx" approved="true" type="Native" />
     </extensionMap>
   </component>
 </application>
