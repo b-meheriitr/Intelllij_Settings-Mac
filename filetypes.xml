@@ -1,55 +1,14 @@
 <application>
   <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*.iml;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.classpath;.git;.hg;.idea;.mvn;.project;.settings;.svn;CVS;__pycache__;_svn;src/*.class;vssver.scc;vssver2.scc" />
     <extensionMap>
-      <mapping pattern="association-save-data" type="AUTO_DETECTED" />
-      <mapping pattern="act3a" type="AUTO_DETECTED" />
-      <mapping pattern="apis" type="AUTO_DETECTED" />
-      <mapping pattern="act_3a-IN" type="AUTO_DETECTED" />
-      <mapping pattern="act7" type="AUTO_DETECTED" />
-      <mapping pattern="act9" type="AUTO_DETECTED" />
-      <mapping pattern="act8" type="AUTO_DETECTED" />
-      <mapping pattern="act4" type="AUTO_DETECTED" />
-      <mapping pattern="act1-opassoc-submit" type="AUTO_DETECTED" />
-      <mapping pattern="ioDataStructures" type="AUTO_DETECTED" />
-      <mapping pattern="digitalApiServiceProvidor.js" type="JavaScript" />
-      <mapping pattern="Bookmarks" type="PLAIN_TEXT" />
-      <mapping pattern=".idea" type="PLAIN_TEXT" />
-      <mapping pattern=".empty" type="PLAIN_TEXT" />
-      <mapping pattern="act3b" type="PLAIN_TEXT" />
-      <mapping pattern="api_lists" type="PLAIN_TEXT" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
-      <mapping pattern="api_lists.txt" type="PLAIN_TEXT" />
-      <mapping pattern="rough" type="PLAIN_TEXT" />
-      <mapping pattern="act6" type="PLAIN_TEXT" />
-      <mapping pattern="act5" type="PLAIN_TEXT" />
-      <mapping pattern="out" type="PLAIN_TEXT" />
-      <mapping pattern="ss2" type="PLAIN_TEXT" />
-      <mapping pattern="common" type="PLAIN_TEXT" />
-      <mapping pattern="ss" type="PLAIN_TEXT" />
-      <mapping pattern="temp" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping ext="out" type="PLAIN_TEXT" />
-      <mapping ext="icls" type="PLAIN_TEXT" />
-      <mapping ext="original" type="PLAIN_TEXT" />
-      <mapping ext="ser" type="PLAIN_TEXT" />
-      <mapping ext="ini" type="PLAIN_TEXT" />
-      <mapping ext="text" type="PLAIN_TEXT" />
-      <mapping ext="factories" type="YAML" />
+      <mapping ext="woff2" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="factories" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="ini" approved="true" type="Ini" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="psd" approved="true" type="Image" />
-      <removed_mapping pattern=".env" approved="true" type=".env file" />
-      <mapping ext=".model" type="Tabnine project model file" />
-      <mapping ext=".tabnine" type="Tabnine project model file" />
-      <mapping ext=".tabnine.model" type="Tabnine project model file" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="model" type="Tabnine project model file" />
-      <mapping ext="plantuml" type="PlantUML file" />
-      <mapping ext="space.kts" type="Kotlin" />
-      <mapping ext="tabnine" type="Tabnine project model file" />
+      <removed_mapping ext="service" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="xls" approved="true" type="Native" />
+      <removed_mapping ext="xlsx" approved="true" type="Native" />
     </extensionMap>
   </component>
 </application>

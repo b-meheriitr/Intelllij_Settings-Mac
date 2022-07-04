@@ -1,0 +1,5 @@
+<application>
+  <component name="ULIDGeneratorSettings">
+    <option name="lowerCased" value="true" />
+  </component>
+</application>

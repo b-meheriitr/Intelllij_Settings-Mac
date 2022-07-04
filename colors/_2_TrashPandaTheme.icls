@@ -5,19 +5,19 @@
     <property name="description" />
     <property name="ide">IdeaEdu</property>
     <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2022-03-25T01:48:12</property>
+    <property name="modified">2022-05-18T00:52:53</property>
     <property name="originalScheme">TrashPandaTheme</property>
     <property name="vendorMail" />
     <property name="vendorName">testPanda</property>
     <property name="vendorUrl">http://</property>
     <property name="version">0.1</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.4" />
-  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="JetBrains Mono Medium" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="JetBrains Mono Medium" />
   <option name="CONSOLE_FONT_SIZE" value="13" />
-  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="b665d" />
     <option name="CARET_COLOR" value="4a9bf2" />
@@ -57,6 +57,7 @@
     <option name="SEPARATOR_BELOW_COLOR" value="383c40" />
     <option name="ScrollBar.Mac.hoverThumbColor" value="383c40" />
     <option name="ScrollBar.Mac.thumbColor" value="383c40" />
+    <option name="TAB_UNDERLINE" value="" />
     <option name="TEARLINE_COLOR" value="383c40" />
     <option name="VISUAL_INDENT_GUIDE" value="383c40" />
     <option name="WHITESPACES" value="383c40" />
@@ -97,7 +98,7 @@
     </option>
     <option name="CONSOLE_BLACK_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="383c40" />
+        <option name="FOREGROUND" value="0" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
@@ -451,8 +452,8 @@
     </option>
     <option name="GENERIC_SERVER_ERROR_OR_WARNING">
       <value>
-        <option name="EFFECT_COLOR" value="cb1710" />
-        <option name="ERROR_STRIPE_COLOR" value="cb1710" />
+        <option name="EFFECT_COLOR" value="e68680" />
+        <option name="ERROR_STRIPE_COLOR" value="e68680" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -460,6 +461,9 @@
     <option name="HAML_ID" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="HTML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
     <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="HTML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
     <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
@@ -521,6 +525,14 @@
       </value>
     </option>
     <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
     <option name="LESS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="LIVE_TEMPLATE_ATTRIBUTES">
       <value>
@@ -565,9 +577,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="4a9bf2" />
-        <option name="BACKGROUND" value="383c40" />
-        <option name="EFFECT_TYPE" value="5" />
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
@@ -597,7 +608,7 @@
     <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="RUNTIME_ERROR">
       <value>
-        <option name="EFFECT_COLOR" value="cb1710" />
+        <option name="EFFECT_COLOR" value="e68680" />
         <option name="ERROR_STRIPE_COLOR" value="e68680" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
@@ -638,6 +649,11 @@
       </value>
     </option>
     <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="" />
+    <option name="TAB_SELECTED">
+      <value>
+        <option name="FOREGROUND" value="28b1fc" />
+      </value>
+    </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="20b1d2" />
@@ -645,7 +661,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="c6ccd3" />
+        <option name="FOREGROUND" value="28b1fc" />
         <option name="BACKGROUND" value="222629" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
