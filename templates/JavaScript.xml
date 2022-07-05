@@ -22,4 +22,10 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="a1" value="()=&gt;$END$" description="()=&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_DOT_PROPERTY_ACCESS" value="false" />
+    </context>
+  </template>
 </templateSet>
