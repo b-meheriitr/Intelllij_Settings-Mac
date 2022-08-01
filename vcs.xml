@@ -18,9 +18,17 @@
           <option name="url" value="https://github.com/bezkoder/node-js-upload-excel-file.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://devops.jio.com/JioMart/RetailIT/_git/ResQ-CA-ResQCarePlan" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/HangfireIO/Hangfire.Highlighter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\bhubaneshwar.meher\Documents\projects\others\poc" />
+    <option name="cloneParentDir" value="C:\Users\bhubaneshwar.meher\Documents\projects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
