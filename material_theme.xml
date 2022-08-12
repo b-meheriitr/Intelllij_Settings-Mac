@@ -4,6 +4,7 @@
     <option name="compactMenus" value="true" />
     <option name="compactStatusBar" value="true" />
     <option name="compactTables" value="true" />
+    <option name="contrastMode" value="true" />
     <option name="useMaterialFont" value="true" />
     <option name="borderedButtons" value="true" />
     <option name="compactDropdowns" value="true" />
@@ -11,6 +12,7 @@
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isCompactFields" value="true" />
+    <option name="isContrastMode" value="true" />
     <option name="treeFontSizeEnabled" value="true" />
     <option name="tabFontSizeEnabled" value="true" />
     <option name="useMaterialFont2" value="true" />
