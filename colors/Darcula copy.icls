@@ -3,7 +3,7 @@
     <property name="created">2022-08-13T01:24:23</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.2.0.0</property>
-    <property name="modified">2022-08-13T01:24:27</property>
+    <property name="modified">2022-08-13T02:11:45</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <colors>
@@ -31,10 +31,29 @@
     <option name="FILESTATUS_addedOutside" value="ffea7f" />
     <option name="FILESTATUS_changelistConflict" value="f97583" />
     <option name="FILESTATUS_modifiedOutside" value="b392f0" />
+    <option name="FOLDED_TEXT_BORDER_COLOR" value="545457" />
+    <option name="SELECTION_BACKGROUND" value="22374b" />
   </colors>
   <attributes>
+    <option name="DEFAULT_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="545457" />
+      </value>
+    </option>
+    <option name="DEFAULT_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="545457" />
+      </value>
+    </option>
     <option name="HTML_CODE">
       <value />
+    </option>
+    <option name="INFO_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="eec82f" />
+        <option name="ERROR_STRIPE_COLOR" value="eec82f" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
     </option>
     <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
       <value>
@@ -48,6 +67,50 @@
       <value>
         <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="SEARCH_RESULT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="24292e" />
+        <option name="BACKGROUND" value="eec82f" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="4ee573" />
+        <option name="ERROR_STRIPE_COLOR" value="eec82f" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="d1d5da" />
+        <option name="BACKGROUND" value="24292e" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="24292e" />
+        <option name="BACKGROUND" value="eec82f" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="4ee573" />
+        <option name="ERROR_STRIPE_COLOR" value="eec82f" />
+      </value>
+    </option>
+    <option name="TEXT_STYLE_SUGGESTION">
+      <value>
+        <option name="EFFECT_COLOR" value="4ee573" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="TYPO">
+      <value>
+        <option name="EFFECT_COLOR" value="4ee573" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="WARNING_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="f8791b" />
+        <option name="ERROR_STRIPE_COLOR" value="f8791b" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
   </attributes>
