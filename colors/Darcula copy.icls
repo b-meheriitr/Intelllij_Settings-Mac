@@ -4,20 +4,23 @@
     <property name="created">2022-08-13T01:24:23</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.2.0.0</property>
-    <property name="modified">2022-08-13T05:13:37</property>
+    <property name="modified">2022-08-21T01:42:19</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
+  <option name="CONSOLE_FONT_SIZE" value="13" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
+    <option name="ADDED_LINES_COLOR" value="5f997a" />
     <option name="BREADCRUMBS_BORDER_COLOR" value="23292f" />
     <option name="CARET_COLOR" value="c8e1ff" />
     <option name="CARET_ROW_COLOR" value="2b3036" />
     <option name="CONSOLE_BACKGROUND_KEY" value="24292e" />
+    <option name="DELETED_LINES_COLOR" value="b8977c" />
     <option name="FILESTATUS_ADDED" value="c3e887" />
     <option name="FILESTATUS_COPIED" value="85e89d" />
     <option name="FILESTATUS_DELETED" value="f77669" />
@@ -44,6 +47,7 @@
     <option name="FILESTATUS_modifiedOutside" value="b392f0" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="545457" />
     <option name="GUTTER_BACKGROUND" value="1f242a" />
+    <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="5f997a" />
     <option name="SELECTION_BACKGROUND" value="22374b" />
   </colors>
   <attributes>
