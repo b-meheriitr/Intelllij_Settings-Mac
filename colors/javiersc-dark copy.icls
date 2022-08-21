@@ -1,10 +1,10 @@
-<scheme name="_@user_javiersc-dark" version="142" parent_scheme="Darcula">
+<scheme name="javiersc-dark copy" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2022-08-12T21:59:33</property>
+    <property name="created">2022-08-21T22:25:02</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.2.0.0</property>
-    <property name="modified">2022-08-21T22:26:29</property>
-    <property name="originalScheme">javiersc-dark</property>
+    <property name="modified">2022-08-21T22:25:07</property>
+    <property name="originalScheme">_@user_javiersc-dark</property>
   </metaInfo>
   <colors>
     <option name="CARET_ROW_COLOR" value="23272e" />
@@ -308,6 +308,11 @@
       <value>
         <option name="FOREGROUND" value="f3eb63" />
         <option name="BACKGROUND" value="c6b55c" />
+      </value>
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="KOTLIN_KEYWORD_VAR">
