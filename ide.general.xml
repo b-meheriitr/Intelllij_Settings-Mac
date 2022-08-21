@@ -7,6 +7,6 @@
     <entry key="rdclient.asyncActions" value="false" />
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="rider.enable.designer.winForms" value="true" />
-    <entry key="" value="true" />
+    <entry key="ide.editor.tab.selection.animation" value="true" />
   </component>
 </application>
