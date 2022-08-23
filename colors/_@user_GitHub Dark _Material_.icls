@@ -4,11 +4,11 @@
     <property name="created">2022-08-12T21:00:26</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.2.0.0</property>
-    <property name="modified">2022-08-24T03:29:14</property>
+    <property name="modified">2022-08-24T04:44:15</property>
     <property name="originalScheme">GitHub Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
@@ -37,7 +37,7 @@
     <option name="CARET_COLOR" value="c8e1ff" />
     <option name="CARET_ROW_COLOR" value="2b3036" />
     <option name="CONSOLE_BACKGROUND_KEY" value="24292e" />
-    <option name="DELETED_LINES_COLOR" value="80471d" />
+    <option name="DELETED_LINES_COLOR" value="6e421d" />
     <option name="DIAGRAM_ANNOTATION_EDGE" value="b392f0" />
     <option name="DIAGRAM_COARSE_GRID" value="444d56" />
     <option name="DIAGRAM_DEFAULT_EDGE" value="e1e4e8" />
@@ -63,10 +63,10 @@
     <option name="DOC_COMMENT_LINK" value="79b8ff" />
     <option name="FILESTATUS_ADDED" value="85e89d" />
     <option name="FILESTATUS_COPIED" value="85e89d" />
-    <option name="FILESTATUS_DELETED" value="959da5" />
+    <option name="FILESTATUS_DELETED" value="885731" />
     <option name="FILESTATUS_HIJACKED" value="b392f0" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="959da5" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="dbedff" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="885731" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="586442" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="f97583" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="f97583" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="f97583" />
@@ -76,6 +76,7 @@
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="dbedff" />
     <option name="FILESTATUS_MERGED" value="b392f0" />
     <option name="FILESTATUS_MODIFIED" value="79b8ff" />
+    <option name="FILESTATUS_NOT_CHANGED" value="b4c0c7" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="79b8ff" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="79b8ff" />
     <option name="FILESTATUS_OBSOLETE" value="959da5" />
@@ -112,10 +113,10 @@
     <option name="MODIFIED_TAB_ICON" value="f9826c" />
     <option name="MT_FILESTATUS_ADDED" value="85e89d" />
     <option name="MT_FILESTATUS_COPIED" value="85e89d" />
-    <option name="MT_FILESTATUS_DELETED" value="959da5" />
+    <option name="MT_FILESTATUS_DELETED" value="885731" />
     <option name="MT_FILESTATUS_HIJACKED" value="b392f0" />
-    <option name="MT_FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="959da5" />
-    <option name="MT_FILESTATUS_IDEA_FILESTATUS_IGNORED" value="dbedff" />
+    <option name="MT_FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="885731" />
+    <option name="MT_FILESTATUS_IDEA_FILESTATUS_IGNORED" value="586442" />
     <option name="MT_FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="f97583" />
     <option name="MT_FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="f97583" />
     <option name="MT_FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="f97583" />
@@ -123,6 +124,7 @@
     <option name="MT_FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="dbedff" />
     <option name="MT_FILESTATUS_MERGED" value="b392f0" />
     <option name="MT_FILESTATUS_MODIFIED" value="79b8ff" />
+    <option name="MT_FILESTATUS_NOT_CHANGED" value="b4c0c7" />
     <option name="MT_FILESTATUS_NOT_CHANGED_IMMEDIATE" value="79b8ff" />
     <option name="MT_FILESTATUS_NOT_CHANGED_RECURSIVE" value="79b8ff" />
     <option name="MT_FILESTATUS_OBSOLETE" value="959da5" />
@@ -739,8 +741,8 @@
     </option>
     <option name="DIFF_DELETED">
       <value>
-        <option name="BACKGROUND" value="444d56" />
-        <option name="ERROR_STRIPE_COLOR" value="444d56" />
+        <option name="BACKGROUND" value="5b4137" />
+        <option name="ERROR_STRIPE_COLOR" value="5b4137" />
       </value>
     </option>
     <option name="DIFF_INSERTED">
