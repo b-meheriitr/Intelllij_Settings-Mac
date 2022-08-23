@@ -3,7 +3,7 @@
     <property name="created">2022-08-12T21:59:33</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.2.0.0</property>
-    <property name="modified">2022-08-24T01:42:03</property>
+    <property name="modified">2022-08-24T02:14:53</property>
     <property name="originalScheme">javiersc-dark</property>
   </metaInfo>
   <colors>
@@ -308,6 +308,11 @@
       <value>
         <option name="FOREGROUND" value="f3eb63" />
         <option name="BACKGROUND" value="c6b55c" />
+      </value>
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="KOTLIN_KEYWORD_VAR">
