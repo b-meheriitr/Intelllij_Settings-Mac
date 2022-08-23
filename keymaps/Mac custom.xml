@@ -4,6 +4,14 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta t" second-keystroke="meta t" />
   </action>
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="shift f9" />
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
   <action id="ExtractMethod">
     <keyboard-shortcut first-keystroke="meta alt m" />
     <keyboard-shortcut first-keystroke="meta alt e" />
