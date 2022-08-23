@@ -4,10 +4,10 @@
     <property name="created">2022-08-12T21:00:26</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.2.0.0</property>
-    <property name="modified">2022-08-24T02:25:38</property>
+    <property name="modified">2022-08-24T02:39:07</property>
     <property name="originalScheme">GitHub Dark (Material)</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.5" />
+  <option name="LINE_SPACING" value="1.3" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
@@ -145,13 +145,13 @@
     <option name="SEPARATOR_ABOVE_COLOR" value="444d56" />
     <option name="SEPARATOR_BELOW_COLOR" value="444d56" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="444d56" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="f9826cc0" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="" />
     <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="23292f" />
-    <option name="ScrollBar.Mac.Transparent.thumbColor" value="f9826c80" />
+    <option name="ScrollBar.Mac.Transparent.thumbColor" value="" />
     <option name="ScrollBar.Mac.Transparent.trackColor" value="23292f" />
-    <option name="ScrollBar.Mac.hoverThumbColor" value="f9826c" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="" />
     <option name="ScrollBar.Mac.hoverTrackColor" value="23292f" />
-    <option name="ScrollBar.Mac.thumbColor" value="f9826cc0" />
+    <option name="ScrollBar.Mac.thumbColor" value="" />
     <option name="ScrollBar.Mac.trackColor" value="23292f" />
     <option name="ScrollBar.Transparent.hoverThumbColor" value="f9826c80" />
     <option name="ScrollBar.Transparent.hoverTrackColor" value="23292f" />
