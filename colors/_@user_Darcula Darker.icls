@@ -7,6 +7,9 @@
     <property name="originalScheme">Darcula Darker</property>
   </metaInfo>
   <colors>
+      <option name="TAB_UNDERLINE" value="f9826c" />
+    <option name="TAB_UNDERLINE_INACTIVE" value="f9826c80" />
+        <option name="MODIFIED_TAB_ICON" value="f9826c" />
     <option name="CARET_COLOR" value="f7f7f7" />
     <option name="CARET_ROW_COLOR" value="323335" />
     <option name="CONSOLE_BACKGROUND_KEY" value="232425" />
@@ -44,6 +47,18 @@
 
   </colors>
   <attributes>
+      <option name="TAB_SELECTED">
+      <value>
+        <option name="FOREGROUND" value="fafbfc" />
+        <option name="BACKGROUND" value="24292e" />
+      </value>
+    </option>
+        <option name="TAB_SELECTED_INACTIVE">
+      <value>
+        <option name="FOREGROUND" value="959da5" />
+        <option name="BACKGROUND" value="1f2428" />
+      </value>
+    </option>
      <option name="DIFF_CONFLICT">
       <value>
         <option name="BACKGROUND" value="9e1c23" />
