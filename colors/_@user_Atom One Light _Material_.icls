@@ -4,7 +4,7 @@
     <property name="created">2022-08-12T21:00:26</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.2.0.0</property>
-    <property name="modified">2022-08-24T01:42:03</property>
+    <property name="modified">2022-08-24T07:07:08</property>
     <property name="originalScheme">Atom One Light (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -80,6 +80,7 @@
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e887" />
     <option name="FILESTATUS_MERGED" value="4078f2" />
     <option name="FILESTATUS_MODIFIED" value="986801" />
+    <option name="FILESTATUS_NOT_CHANGED" value="b4c0c7" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57b6c2" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="57b6c2" />
     <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
