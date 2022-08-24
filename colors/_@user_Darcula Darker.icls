@@ -3,7 +3,7 @@
     <property name="created">2022-08-24T01:53:44</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.2.1.0.0</property>
-    <property name="modified">2022-08-24T23:31:38</property>
+    <property name="modified">2022-08-25T00:02:35</property>
     <property name="originalScheme">Darcula Darker</property>
   </metaInfo>
   <colors>
@@ -12,6 +12,7 @@
     <option name="CARET_ROW_COLOR" value="2b3036" />
     <option name="CONSOLE_BACKGROUND_KEY" value="24292e" />
     <option name="DELETED_LINES_COLOR" value="6e421d" />
+    <option name="DIFF_SEPARATORS_BACKGROUND" value="2f363d" />
     <option name="FILESTATUS_ADDED" value="c3e887" />
     <option name="FILESTATUS_COPIED" value="85e89d" />
     <option name="FILESTATUS_DELETED" value="f77669" />
@@ -39,8 +40,12 @@
     <option name="GUTTER_BACKGROUND" value="23292f" />
     <option name="MODIFIED_LINES_COLOR" value="234d79" />
     <option name="MODIFIED_TAB_ICON" value="f9826c" />
-    <option name="SELECTED_TEARLINE_COLOR" value="5e6063" />
-    <option name="TEARLINE_COLOR" value="454749" />
+    <option name="RIGHT_MARGIN_COLOR" value="2f363d" />
+    <option name="SELECTED_TEARLINE_COLOR" value="22374b" />
+    <option name="TAB_UNDERLINE" value="1c67d8" />
+    <option name="TAB_UNDERLINE_INACTIVE" value="637d9a" />
+    <option name="TEARLINE_COLOR" value="2f363d" />
+    <option name="VISUAL_INDENT_GUIDE" value="2f363d" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="60a7bd" />
   </colors>
   <attributes>
