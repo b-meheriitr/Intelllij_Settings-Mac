@@ -10,6 +10,7 @@
   <component name="DaemonCodeAnalyzerSettings">
     <option name="AUTOREPARSE_DELAY" value="200" />
     <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="3" />
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
@@ -43,16 +44,13 @@
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="disabledHintProviderIds">
-      <set>
-        <option value="JavaScript.js.type.hints" />
-      </set>
-    </option>
-    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+    <option name="lastViewedProviderKeyId" value="JavaScript.js.type.hints" />
     <settingsMapElement>
       <JavaScript.js.type.hints>
         <Settings>
-          <option name="showForInferredParameters" value="false" />
+          <option name="showForFunctions" value="true" />
+          <option name="showForShorthandFunctions" value="true" />
+          <option name="showForVariablesAndFields" value="true" />
         </Settings>
       </JavaScript.js.type.hints>
     </settingsMapElement>
