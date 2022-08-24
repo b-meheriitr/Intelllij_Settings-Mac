@@ -40,8 +40,6 @@
     <option name="MODIFIED_LINES_COLOR" value="234d79" />
     <option name="MODIFIED_TAB_ICON" value="f9826c" />
     <option name="SELECTED_TEARLINE_COLOR" value="5e6063" />
-    <option name="TAB_UNDERLINE" value="f9826c" />
-    <option name="TAB_UNDERLINE_INACTIVE" value="f9826c80" />
     <option name="TEARLINE_COLOR" value="454749" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="60a7bd" />
   </colors>
