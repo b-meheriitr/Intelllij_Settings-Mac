@@ -3,6 +3,10 @@
     <blacklists>
       <blacklist language="Java" />
     </blacklists>
-    <option id="js.only.show.names.for.all.args" value="true" />
+    <option id="js.only.show.names.for.tagged" value="false" />
+    <option id="js.only.show.names.for.pipes" value="false" />
+    <disabledLanguages>
+      <language id="JavaScript" />
+    </disabledLanguages>
   </component>
 </application>

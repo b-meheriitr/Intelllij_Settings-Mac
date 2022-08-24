@@ -2,7 +2,7 @@
   <action id="ActivateFindToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
-    <keyboard-shortcut first-keystroke="meta t" second-keystroke="meta t" />
+    <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="ctrl space" />
@@ -43,5 +43,12 @@
     <keyboard-shortcut first-keystroke="meta f2" />
     <keyboard-shortcut first-keystroke="meta 5" />
   </action>
+  <action id="ToggleInlayHintsGloballyAction">
+    <keyboard-shortcut first-keystroke="ctrl meta t" />
+  </action>
+  <action id="ToggleInlineHintsAction">
+    <keyboard-shortcut first-keystroke="ctrl meta h" />
+  </action>
   <action id="UsageFiltering.ReadAccess" />
+  <action id="Vcs.UpdateProject" />
 </keymap>
