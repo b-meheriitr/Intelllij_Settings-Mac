@@ -3,7 +3,7 @@
     <property name="created">2022-08-12T20:53:49</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.2.0.0</property>
-    <property name="modified">2022-08-12T22:58:52</property>
+    <property name="modified">2022-08-24T08:24:58</property>
     <property name="originalScheme">Green lite</property>
   </metaInfo>
   <colors>
@@ -29,8 +29,8 @@
     <option name="FILESTATUS_COPIED" value="85e89d" />
     <option name="FILESTATUS_DELETED" value="f77669" />
     <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="959da5" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="dbedff" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="885731" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="586442" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="f97583" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="f97583" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="f97583" />
@@ -39,6 +39,7 @@
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e887" />
     <option name="FILESTATUS_MERGED" value="b392f0" />
     <option name="FILESTATUS_MODIFIED" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED" value="b4c0c7" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
     <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
