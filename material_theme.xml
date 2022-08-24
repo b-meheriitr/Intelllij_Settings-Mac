@@ -2,9 +2,11 @@
   <component name="MaterialThemeConfig">
     <option name="UIFont" value="Roboto Light" />
     <option name="compactMenus" value="true" />
+    <option name="contrastMode" value="true" />
     <option name="accentScrollbars" value="false" />
     <option name="compactDropdowns" value="true" />
     <option name="isCompactMenus" value="true" />
+    <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="settingsSelectedTab" value="3" />
