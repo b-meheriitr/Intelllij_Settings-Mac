@@ -37,8 +37,37 @@
     <option name="GUTTER_BACKGROUND" value="232425" />
     <option name="SELECTED_TEARLINE_COLOR" value="5e6063" />
     <option name="TEARLINE_COLOR" value="454749" />
+        <option name="ADDED_LINES_COLOR" value="1a6e45" />
+    <option name="DELETED_LINES_COLOR" value="6e421d" />
+    <option name="MODIFIED_LINES_COLOR" value="234d79" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="60a7bd" />
+
   </colors>
   <attributes>
+     <option name="DIFF_CONFLICT">
+      <value>
+        <option name="BACKGROUND" value="9e1c23" />
+        <option name="ERROR_STRIPE_COLOR" value="f97583" />
+      </value>
+    </option>
+    <option name="DIFF_DELETED">
+      <value>
+        <option name="BACKGROUND" value="5b4137" />
+        <option name="ERROR_STRIPE_COLOR" value="5b4137" />
+      </value>
+    </option>
+    <option name="DIFF_INSERTED">
+      <value>
+        <option name="BACKGROUND" value="264b33" />
+        <option name="ERROR_STRIPE_COLOR" value="447152" />
+      </value>
+    </option>
+    <option name="DIFF_MODIFIED">
+      <value>
+        <option name="BACKGROUND" value="44289" />
+        <option name="ERROR_STRIPE_COLOR" value="1e6bc2" />
+      </value>
+    </option>
     <option name="DEFAULT_CONSTANT">
       <value>
         <option name="FOREGROUND" value="a782bb" />

@@ -32,6 +32,11 @@
     <option name="FILESTATUS_addedOutside" value="ffcb6b" />
     <option name="FILESTATUS_changelistConflict" value="fc9867" />
     <option name="FILESTATUS_modifiedOutside" value="c792ea" />
+
+        <option name="ADDED_LINES_COLOR" value="1a6e45" />
+    <option name="DELETED_LINES_COLOR" value="6e421d" />
+    <option name="MODIFIED_LINES_COLOR" value="234d79" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="60a7bd" />
   </colors>
   <attributes>
     <option name="DIFF_CONFLICT">
