@@ -1,0 +1,21 @@
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="colorScheme" value="_@user_Darcula Darker" />
+    <option name="excludedColor" value="2f363dff" />
+    <option name="accentColor" value="399f5aff" />
+    <option name="notificationsColor" value="2f363dff" />
+    <option name="treeSelectionColor" value="39414aff" />
+    <option name="highlightColor" value="313841ff" />
+    <option name="secondBorderColor" value="1b1f23ff" />
+    <option name="tableSelectedColor" value="2a643eff" />
+    <option name="contrastColor" value="1e2428ff" />
+    <option name="disabledColor" value="6a737dff" />
+    <option name="secondaryBackgroundColor" value="2f363dff" />
+    <option name="buttonColor" value="39414aff" />
+    <option name="selectionForegroundColor" value="e1e4e8ff" />
+    <option name="selectionBackgroundColor" value="1667c9ff" />
+    <option name="textColor" value="b1bdc5ff" />
+    <option name="foregroundColor" value="e1e4e8ff" />
+    <option name="backgroundColor" value="24292eff" />
+  </component>
+</application>
