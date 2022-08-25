@@ -5,7 +5,7 @@
     <option name="accentColor" value="399f5aff" />
     <option name="notificationsColor" value="2f363dff" />
     <option name="treeSelectionColor" value="39414aff" />
-    <option name="highlightColor" value="3a4352ff" />
+    <option name="highlightColor" value="444d56ff" />
     <option name="secondBorderColor" value="1b1f23ff" />
     <option name="tableSelectedColor" value="2a643eff" />
     <option name="contrastColor" value="1e2428ff" />
@@ -15,7 +15,7 @@
     <option name="selectionForegroundColor" value="e1e4e8ff" />
     <option name="selectionBackgroundColor" value="1667c9ff" />
     <option name="textColor" value="b1bdc5ff" />
-    <option name="foregroundColor" value="e1e4e8ff" />
+    <option name="foregroundColor" value="dbdfe7ff" />
     <option name="backgroundColor" value="24292eff" />
   </component>
 </application>
