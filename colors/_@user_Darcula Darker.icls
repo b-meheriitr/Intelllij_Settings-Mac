@@ -3,7 +3,7 @@
     <property name="created">2022-08-24T01:53:44</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.2.1.0.0</property>
-    <property name="modified">2022-08-25T01:02:37</property>
+    <property name="modified">2022-08-25T00:02:35</property>
     <property name="originalScheme">Darcula Darker</property>
   </metaInfo>
   <colors>
@@ -98,6 +98,13 @@
       <value>
         <option name="BACKGROUND" value="44289" />
         <option name="ERROR_STRIPE_COLOR" value="1e6bc2" />
+      </value>
+    </option>
+    <option name="ERRORS_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="bc3f3c" />
+        <option name="ERROR_STRIPE_COLOR" value="be2f2d" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="HTML_CODE">
