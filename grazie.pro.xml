@@ -1,0 +1,13 @@
+<application>
+  <component name="GrazieProConfig">
+    <option name="posHighlighting">
+      <set>
+        <option value="NOUN" />
+        <option value="VERB" />
+        <option value="ADJECTIVE" />
+        <option value="ADVERB" />
+        <option value="CONJUNCTION" />
+      </set>
+    </option>
+  </component>
+</application>
