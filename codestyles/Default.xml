@@ -8,10 +8,8 @@
     <option name="HTML_UNIFORM_INDENT" value="true" />
     <option name="HTML_TEXT_WRAP" value="0" />
     <option name="HTML_ALIGN_TEXT" value="true" />
-    <option name="HTML_SPACE_AROUND_EQUALITY_IN_ATTRIBUTE" value="true" />
     <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="body,div,p,form,h1,h2,h3,p" />
     <option name="HTML_DONT_ADD_BREAKS_IF_INLINE_CONTENT" value="title,h1,h2,h3,h4,h5,h6" />
-    <option name="HTML_QUOTE_STYLE" value="Single" />
     <option name="HTML_ENFORCE_QUOTES" value="true" />
     <option name="HTML_NEWLINE_BEFORE_FIRST_ATTRIBUTE" value="When multiline" />
     <option name="HTML_NEWLINE_AFTER_LAST_ATTRIBUTE" value="When multiline" />
