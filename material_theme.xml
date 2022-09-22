@@ -3,6 +3,7 @@
     <option name="compactMenus" value="true" />
     <option name="contrastMode" value="true" />
     <option name="accentScrollbars" value="false" />
+    <option name="allowDataCollection" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isContrastMode" value="true" />
