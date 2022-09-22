@@ -12,16 +12,9 @@
     <keyboard-shortcut first-keystroke="shift f9" />
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
-  <action id="Diff.ShowDiff">
-    <keyboard-shortcut first-keystroke="meta d" />
-    <mouse-shortcut keystroke="button1" />
-  </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="ctrl d" />
     <keyboard-shortcut first-keystroke="meta d" />
-  </action>
-  <action id="EslintImportCodeStyle">
-    <keyboard-shortcut first-keystroke="ctrl meta e" />
   </action>
   <action id="ExtractMethod">
     <keyboard-shortcut first-keystroke="meta alt m" />
@@ -49,10 +42,6 @@
   <action id="Stop">
     <keyboard-shortcut first-keystroke="meta f2" />
     <keyboard-shortcut first-keystroke="meta 5" />
-  </action>
-  <action id="SurroundWith">
-    <keyboard-shortcut first-keystroke="meta alt t" />
-    <keyboard-shortcut first-keystroke="meta alt s" />
   </action>
   <action id="ToggleInlayHintsGloballyAction">
     <keyboard-shortcut first-keystroke="ctrl meta t" />
