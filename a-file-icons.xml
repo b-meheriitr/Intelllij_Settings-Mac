@@ -3,6 +3,7 @@
     <option name="accentColorEnabled" value="true" />
     <option name="enabledPsiIcons" value="false" />
     <option name="enabledUIIcons" value="false" />
+    <option name="lowPowerMode" value="false" />
     <option name="themedColorEnabled" value="true" />
     <option name="useHollowFolders" value="false" />
     <option name="isEnabledUIIcons" value="false" />
@@ -14,5 +15,6 @@
     <option name="accentColor" value="ff6666" />
     <option name="isThemedColorEnabled" value="true" />
     <option name="themedColor" value="eec82f" />
+    <option name="isLowPowerMode" value="false" />
   </component>
 </application>
