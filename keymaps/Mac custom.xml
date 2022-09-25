@@ -8,6 +8,9 @@
     <keyboard-shortcut first-keystroke="ctrl space" />
     <keyboard-shortcut first-keystroke="meta space" />
   </action>
+  <action id="CopyAsPlainText">
+    <keyboard-shortcut first-keystroke="ctrl meta c" />
+  </action>
   <action id="Debug">
     <keyboard-shortcut first-keystroke="shift f9" />
     <keyboard-shortcut first-keystroke="shift meta d" />
