@@ -3,6 +3,7 @@
     <option name="completionCaseSensitive" value="2" />
     <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+    <option name="INSERT_BRACE_ON_ENTER" value="false" />
   </component>
   <component name="CodeVisionSettings">
     <option name="enabled" value="false" />
@@ -46,7 +47,6 @@
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="enabled" value="false" />
     <option name="lastViewedProviderKeyId" value="JavaScript.parameter.hints.old" />
     <settingsMapElement>
       <JavaScript.js.type.hints>
@@ -62,10 +62,12 @@
     <option name="collapseOneLineFunctions" value="true" />
   </component>
   <component name="JSEditorOptions">
-    <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
+          <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
+    <option name="ESCAPE_PASTED_TEXT" value="false" />
+    <option name="CONVERT_HTML_TO_JSX" value="false" />
+    <option name="ESCAPE_DOC_ON_COPY_PASTE" value="false" />
   </component>
   <component name="JsonEditorOptions">
-    <option name="COMMA_ON_MATCHING_BRACES" value="false" />
     <option name="COLON_MOVE_OUTSIDE_QUOTES" value="true" />
     <option name="COMMA_MOVE_OUTSIDE_QUOTES" value="true" />
   </component>
@@ -76,5 +78,8 @@
   </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
+  </component>
+  <component name="YamlEditorOptions">
+    <option name="useSmartPaste" value="false" />
   </component>
 </application>
