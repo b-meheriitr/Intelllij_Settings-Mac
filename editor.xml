@@ -6,9 +6,6 @@
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
     <option name="INSERT_BRACE_ON_ENTER" value="false" />
   </component>
-  <component name="CodeVisionSettings">
-    <option name="enabled" value="false" />
-  </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="AUTOREPARSE_DELAY" value="200" />
     <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="3" />
