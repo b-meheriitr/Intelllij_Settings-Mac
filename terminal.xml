@@ -1,0 +1,7 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <option name="myCopyOnSelection" value="true" />
+    <option name="myTabName" value="Local" />
+    <option name="useOptionAsMetaKey" value="true" />
+  </component>
+</application>
