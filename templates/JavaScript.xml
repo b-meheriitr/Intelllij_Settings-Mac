@@ -67,4 +67,10 @@
       <option name="JS_TOP_LEVEL_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="rt" value="return " description="return" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JS_CLASS_MEMBER_STATEMENT" value="false" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
