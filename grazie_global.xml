@@ -1,5 +1,10 @@
 <application>
   <component name="GraziConfig">
+    <option name="userDisabledRules">
+      <set>
+        <option value="LanguageTool.EN.RAIN_COMPOUNDS" />
+      </set>
+    </option>
     <option name="detectionContext">
       <State>
         <option name="disabled">
