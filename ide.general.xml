@@ -12,6 +12,7 @@
     <entry key="ide.new.editor.tabs.vertical.borders" value="true" />
     <entry key="editor.focus.mode.color.light" value="bfbfbf" />
     <entry key="editor.focus.mode.color.dark" value="bfbfbf" />
+    <entry key="ide.intellij.laf.enable.animation" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
