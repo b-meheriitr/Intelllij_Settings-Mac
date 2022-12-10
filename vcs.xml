@@ -10,6 +10,10 @@
           <option name="url" value="http://tfs.ril.com:8080" />
           <option name="userName" value="bhubaneshwar.meher" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://hcazdevops.ril.com" />
+          <option name="userName" value="bhubaneshwar.meher" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
