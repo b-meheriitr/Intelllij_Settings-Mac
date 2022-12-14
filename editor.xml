@@ -2,27 +2,31 @@
   <component name="CodeInsightSettings">
     <option name="completionCaseSensitive" value="2" />
     <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
+    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
-    <option name="INSERT_BRACE_ON_ENTER" value="false" />
+    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
   </component>
   <component name="CodeVisionSettings">
     <option name="codeVisionGroupToPosition">
       <map>
         <entry key="inheritors" value="Default" />
-        <entry key="problems" value="Default" />
         <entry key="references" value="Default" />
         <entry key="vcs.code.vision" value="Default" />
       </map>
     </option>
     <option name="disabledCodeVisionProviderIds">
       <set>
+        <option value="inheritors" />
+        <option value="references" />
         <option value="vcs.code.vision" />
       </set>
     </option>
+    <option name="enabled" value="false" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="AUTOREPARSE_DELAY" value="200" />
     <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="3" />
+    <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
@@ -52,11 +56,14 @@
     <option name="REMOVE_TRAILING_BLANK_LINES" value="true" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
     <option name="ENABLE_RENDERED_DOC" value="true" />
+    <option name="IS_LEADING_WHITESPACES_SHOWN" value="false" />
+    <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
+    <option name="IS_TRAILING_WHITESPACES_SHOWN" value="false" />
     <option name="IS_WHEEL_FONTCHANGE_PERSISTENT" value="true" />
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="JavaScript.parameter.hints.old.js.only.show.names.for.tagged" />
+    <option name="lastViewedProviderKeyId" value="" />
     <settingsMapElement>
       <JavaScript.js.type.hints>
         <Settings>
@@ -72,6 +79,8 @@
   </component>
   <component name="JSEditorOptions">
     <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
+    <option name="ESCAPE_PASTED_TEXT" value="false" />
+    <option name="CONVERT_HTML_TO_JSX" value="false" />
     <option name="ESCAPE_DOC_ON_COPY_PASTE" value="false" />
   </component>
   <component name="JsonEditorOptions">
