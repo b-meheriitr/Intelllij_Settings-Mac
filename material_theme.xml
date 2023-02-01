@@ -1,5 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="UIFont" value="Roboto Light" />
     <option name="compactMenus" value="true" />
     <option name="contrastMode" value="true" />
     <option name="accentScrollbars" value="false" />
@@ -12,7 +13,7 @@
     <option name="accentColor" value="2e9f55" />
     <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-174c04fd:182925b088d:-8000" />
-    <option name="version" value="8.4.1" />
+    <option name="version" value="6.16.2" />
     <option name="uiFont" value="Roboto Light" />
   </component>
 </application>
