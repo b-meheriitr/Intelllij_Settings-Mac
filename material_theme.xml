@@ -1,18 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="compactMenus" value="true" />
-    <option name="contrastMode" value="true" />
-    <option name="accentScrollbars" value="false" />
-    <option name="compactDropdowns" value="true" />
-    <option name="isCompactMenus" value="true" />
-    <option name="isContrastMode" value="true" />
-    <option name="isWizardShown" value="true" />
-    <option name="pristineConfig" value="false" />
-    <option name="settingsSelectedTab" value="3" />
     <option name="accentColor" value="2e9f55" />
     <option name="selectedTheme" value="NATIVE" />
-    <option name="userId" value="-174c04fd:182925b088d:-8000" />
+    <option name="userId" value="39fea177:187cf0e2d37:-8000" />
     <option name="version" value="8.4.1" />
-    <option name="uiFont" value="Roboto Light" />
   </component>
 </application>
